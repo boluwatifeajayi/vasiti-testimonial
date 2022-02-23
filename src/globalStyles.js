@@ -12,7 +12,6 @@ export const GlobalStyles = createGlobalStyle`
     font-family: arial, sans-serif;
     height: 100vh;
     scroll-behavior: smooth;
-    font-weight: lighter;
     color: #333;
   }
   
